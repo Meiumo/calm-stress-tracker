@@ -1,8 +1,27 @@
-# Спокой — трекер рабочего стресса с ИИ
+<p align="center">
+  <img src="assets/icon/sprout-512.png" width="96" alt="Спокой" />
+</p>
+
+<h1 align="center">Спокой</h1>
+
+<p align="center">Трекер рабочего стресса с ИИ</p>
+
+---
 
 Спокой помогает фиксировать рабочий стресс, получать поддержку от ИИ в реальном времени и отслеживать динамику самочувствия по неделям.
 
 Пользователь отмечает уровень стресса и рабочие события — приложение отвечает живым советом через DeepSeek, формирует недельную карточку с инсайтами и показывает графики динамики.
+
+---
+
+## Скриншоты
+
+<p align="center">
+  <img src="assets/screens/fisr-main.png" width="22%" alt="Главная" />
+  <img src="assets/screens/instant-chat.png" width="22%" alt="ИИ-чат" />
+  <img src="assets/screens/weekly-insight.png" width="22%" alt="Недельный отчёт" />
+  <img src="assets/screens/first-onboarding.png" width="22%" alt="Онбординг" />
+</p>
 
 ---
 
